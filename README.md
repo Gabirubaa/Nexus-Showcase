@@ -80,7 +80,32 @@ The platform supports student work and learning records in a structured digital 
 NEXUS also integrates with **NEXUS Blocks**, a block-based programming environment created for robotics activities involving the SESAME educational robot.
 
 The integration allows students to access the programming experience from within the NEXUS ecosystem while preserving their authenticated context.
+## Platform preview
 
+### Secure access
+NEXUS starts with an authenticated access flow designed for the school environment.
+
+![NEXUS login](assets/login.png)
+
+### Student learning hub
+After authentication, students access the learning areas available for their profile, including Maker and SEEDS.
+
+![NEXUS subject hub](assets/subject-hub.png)
+
+### Structured lesson experience
+Lessons are organized by school year and term, with direct access to content, class portfolios and integrated tools.
+
+![NEXUS lesson hub](assets/lesson-hub.png)
+
+### Integrated robotics programming
+NEXUS integrates **NEXUS Blocks**, a block-based programming environment for the SESAME educational robot, including a 3D simulation, servo controls and OLED face previews.
+
+![NEXUS Blocks](assets/nexus-blocks.png)
+
+### Teacher and administrator authoring
+Authorized users can create and publish structured educational content, link classes, upload resources and configure robotics-related experiences.
+
+![NEXUS admin authoring](assets/admin-authoring.png)
 ---
 
 ## Technologies and concepts
